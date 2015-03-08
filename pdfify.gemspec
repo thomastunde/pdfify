@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Pdfify::VERSION
   s.authors     = ["Tunde Thomas"]
   s.email       = ["otundethomas@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Pdfify."
-  s.description = "TODO: Description of Pdfify."
+  s.homepage    = "https://github.com/thomastunde/pdfify"
+  s.summary     = "pdf renderer"
+  s.description = "pdf renderer for rails"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
